@@ -1,0 +1,9 @@
+[project]
+name = "icechunk_rust_error"
+requires-python = ">=3.11"
+dynamic = ["version"]
+
+
+dependencies = [
+    "icechunk"
+]
